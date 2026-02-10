@@ -36,7 +36,6 @@ Technologies Used
 •	DAX (Data Analysis Expressions)
 •	Data Warehousing Concepts
 
-
 Data Warehouse Design
 A Star Schema was designed for analytical reporting.
 Dimension Tables
@@ -44,7 +43,6 @@ Dimension Tables
 •	DimProductSubcategory
 •	DimProductCategory
 •	DimVendor
-•	DimLocation
 •	DimDate
 •	DimProductVendor
 Fact Tables
