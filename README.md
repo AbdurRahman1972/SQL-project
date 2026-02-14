@@ -1,6 +1,5 @@
-# SQL-project
-Inventory Data analysis 
-Inventory Management Project
+# Inventory Analytics Dashboard | SQL Server, T-SQL, Power BI
+
 
 OVERVIEW
 
